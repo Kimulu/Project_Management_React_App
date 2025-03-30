@@ -63,6 +63,3 @@ This project is a **Project Management App** built with React and Tailwind CSS. 
 - Add **local storage** support to persist projects and tasks.
 - Implement drag-and-drop functionality for task management.
 
----
-This project was a great learning experience in React and helped reinforce important concepts in state management, component structuring, and UI design. 🚀
-
